@@ -94,6 +94,7 @@ set(core_SOURCES
         keys/FileKey.cpp
         keys/PasswordKey.cpp
         keys/ChallengeResponseKey.cpp
+        keys/SmartcardKey.cpp
         streams/HashedBlockStream.cpp
         streams/HmacBlockStream.cpp
         streams/LayeredStream.cpp
